@@ -1,0 +1,1799 @@
+[
+  {
+    "id": "albedo",
+    "name": "Albedo",
+    "title": "Kreideprinz",
+    "rarity": 5,
+    "element": "Tanah (Geo)",
+    "weapon": "Pedang",
+    "nation": "Mondstadt",
+    "birthday": "09-13",
+    "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+    "skills": [
+      "Favonius Bladework - Weiss",
+      "Abiogenesis: Solar Isotoma",
+      "Rite of Progeniture: Tectonic Tide"
+    ],
+    "passives": [
+      "Calcite Might",
+      "Homuncular Nature",
+      "Flash of Genius"
+    ],
+    "constellations": [
+      "Flower of Eden",
+      "Opening of Phanerozoic",
+      "Grace of Helios",
+      "Descent of Divinity",
+      "Tide of Hadaen",
+      "Dust of Purification"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/albedo/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/albedo/gacha-splash.png.png"
+  },
+  {
+    "id": "aloy",
+    "name": "Aloy",
+    "title": "Savior From Another World",
+    "rarity": 5,
+    "element": "Es (Cryo)",
+    "weapon": "Panah",
+    "nation": "Unknown",
+    "birthday": "04-04",
+    "description": "",
+    "skills": [
+      "Rapid Fire",
+      "Frozen Wilds",
+      "Prophecies of Dawn"
+    ],
+    "passives": [
+      "Combat Override",
+      "Strong Strike",
+      "Easy Does It"
+    ],
+    "constellations": [
+      "Star of Another World (1)",
+      "Star of Another World (2)",
+      "Star of Another World (3)",
+      "Star of Another World (4)",
+      "Star of Another World (5)",
+      "Star of Another World (6)"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/alyaloy/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/alyaloy/gacha-splash.png"
+  },
+  {
+    "id": "amber",
+    "name": "Amber",
+    "title": "Gliding Champion",
+    "rarity": 4,
+    "element": "Api (Pyro)",
+    "weapon": "Panah",
+    "nation": "Mondstadt",
+    "birthday": "08-10",
+    "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+    "skills": [
+      "Sharpshooter",
+      "Explosive Puppet",
+      "Fiery Rain"
+    ],
+    "passives": [
+      "Every Arrow Finds Its Target",
+      "Precise Shot",
+      "Gliding Champion"
+    ],
+    "constellations": [
+      "One Arrow to Rule Them All",
+      "Bunny Triggered",
+      "It Burns!",
+      "It's Not Just Any Doll...",
+      "It's Baron Bunny!",
+      "Wildfire"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/amber/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/amber/gacha-splash.png"
+  },
+  {
+    "id": "kamisato-ayaka",
+    "name": "Kamisato Ayaka",
+    "title": "Frostflake Heron",
+    "rarity": 5,
+    "element": "Es (Cryo)",
+    "weapon": "Pedang",
+    "nation": "Inazuma",
+    "birthday": "09-28",
+    "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
+    "skills": [
+      "Kamisato Art - Kabuki",
+      "Kamisato Art: Hyouka",
+      "Kamisato Art: Soumetsu",
+      "Kamisato Art: Senho"
+    ],
+    "passives": [
+      "Amatsumi Kunitsumi Sanctification",
+      "Kanten Senmyou Blessing",
+      "Fruits of Shinsa"
+    ],
+    "constellations": [
+      "Snowswept Sakura",
+      "Blizzard Blade Seki no To",
+      "Frostbloom Kamifubuki",
+      "Ebb and Flow",
+      "Blossom Cloud Irutsuki",
+      "Dance of Suigetsu"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/ayaka/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/ayaka/gacha-splash.png"
+  },
+  {
+    "id": "ayato",
+    "name": "Ayato",
+    "title": "Pillar of Fortitude",
+    "rarity": 5,
+    "element": "Air (Hydro)",
+    "weapon": "Pedang",
+    "nation": "Inazuma",
+    "birthday": "03-26",
+    "description": "The young but highly accomplished head of the Yashiro Commisson's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
+    "skills": [
+      "Kamisato Art - Marobashi",
+      "Kamisato Art: Kyouka",
+      "Kamisato Art: Suiyuu"
+    ],
+    "passives": [
+      "Kamisato Art: Mine Wo Matoishi Kiyotaki",
+      "Kamisato Art: Michiyuku Hagetsu",
+      "Kamisato Art: Daily Cooking"
+    ],
+    "constellations": [
+      "Kyouka Fuushi",
+      "World Source",
+      "To Admire the Flowers",
+      "Endless Flow",
+      "Bansui Ichiro",
+      "Boundless Origin"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/ayato/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/ayato/gacha-splash.png"
+  },
+  {
+    "id": "barbara",
+    "name": "Barbara",
+    "title": "Shining Idol",
+    "rarity": 4,
+    "element": "Air (Hydro)",
+    "weapon": "Buku (Catalyst)",
+    "nation": "Mondstadt",
+    "birthday": "07-05",
+    "description": "Every denizen of Mondstadt adores Barbara. However, she learned the word \"idol\" from a magazine.",
+    "skills": [
+      "Whisper of Water",
+      "Let the Show Begin",
+      "Shining Miracle"
+    ],
+    "passives": [
+      "Glorious Season",
+      "Encore",
+      "With My Whole Heart"
+    ],
+    "constellations": [
+      "Gleeful Songs",
+      "Vitality Burst",
+      "Star of Tomorrow",
+      "Attentiveness be My Power",
+      "The Purest Companionship",
+      "Dedicating Everything to You"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/barbara/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/barbara/gacha-splash.png"
+  },
+  {
+    "id": "beidou",
+    "name": "Beidou",
+    "title": "Uncrowned Lord of the Ocean",
+    "rarity": 4,
+    "element": "Listrik (Electro)",
+    "weapon": "Pedang Besar",
+    "nation": "Liyue",
+    "birthday": "02-14",
+    "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+    "skills": [
+      "Oceanborne",
+      "Tidecaller",
+      "Stormbreaker"
+    ],
+    "passives": [
+      "Retribution",
+      "Lightning Storm",
+      "Conqueror of Tides"
+    ],
+    "constellations": [
+      "Sea Beast's Scourge",
+      "Upon the Turbulent Sea, the Thunder Arises",
+      "Summoner of Storm",
+      "Stunning Revenge",
+      "Crimson Tidewalker",
+      "Bane of Evil"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/beidou/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/beidou/gacha-splash.png"
+  },
+  {
+    "id": "bennett",
+    "name": "Bennett",
+    "title": "Trial by Fire",
+    "rarity": 4,
+    "element": "Api (Pyro)",
+    "weapon": "Pedang",
+    "nation": "Mondstadt",
+    "birthday": "02-29",
+    "description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+    "skills": [
+      "Strike of Fortune",
+      "Passion Overload",
+      "Fantastic Voyage"
+    ],
+    "passives": [
+      "Rekindle",
+      "Fearnaught",
+      "It Should Be Safe..."
+    ],
+    "constellations": [
+      "Grand Expectation",
+      "Impasse Conqueror",
+      "Unstoppable Fervor",
+      "Unexpected Odyssey",
+      "True Explorer",
+      "Fire Ventures with Me"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/bennett/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/bennett/gacha-splash.png"
+  },
+  {
+    "id": "candace",
+    "name": "Candace",
+    "title": "Golden Vow",
+    "rarity": 4,
+    "element": "Air (Hydro)",
+    "weapon": "Tombak",
+    "nation": "Sumeru",
+    "birthday": "05-03",
+    "description": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
+    "skills": [
+      "Gleaming Spear - Guardian Stance",
+      "Sacred Rite: Heron's Sanctum,",
+      "Sacred Rite: Wagtail's Tide"
+    ],
+    "passives": [
+      "Aegis of Crossed Arrows",
+      "Celestial Dome of Sand",
+      "To Dawn's First Light"
+    ],
+    "constellations": [
+      "Returning Heiress of the Scarlet Sands",
+      "Moon-Piercing Brilliance",
+      "Hunter's Supplication",
+      "Sentinel Oath",
+      "Heterochromatic Gaze",
+      "The Overflow"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/candace/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/candace/gacha-splash.png"
+  },
+  {
+    "id": "chongyun",
+    "name": "Chongyun",
+    "title": "Frozen Ardor",
+    "rarity": 4,
+    "element": "Es (Cryo)",
+    "weapon": "Pedang Besar",
+    "nation": "Liyue",
+    "birthday": "09-07",
+    "description": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+    "skills": [
+      "Demonbane",
+      "Spirit Blade - Chonghua's Layered Frost",
+      "Spirit Blade - Cloud-parting Star"
+    ],
+    "passives": [
+      "Steady Breathing",
+      "Rimechaser Blade",
+      "Gallant Journey"
+    ],
+    "constellations": [
+      "Ice Unleashed",
+      "Atmospheric Revolution",
+      "Cloudburst",
+      "Frozen Skies",
+      "The True Path",
+      "Rally of Four Blades"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/chongyun/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/chongyun/gacha-splash.png"
+  },
+  {
+    "id": "collei",
+    "name": "Collei",
+    "title": "",
+    "rarity": 4,
+    "element": "Tumbuhan (Dendro)",
+    "weapon": "Panah",
+    "nation": "Sumeru",
+    "birthday": "05-08",
+    "description": "Oh, you're going to Sumeru? Can you give my regards to Collei? Well... it's been so long, I wonder if her hair has grown out and if she's taller?\n— Amber",
+    "skills": [
+      "Supplicant's Bowmanship",
+      "Floral Brush",
+      "Trump-Card Kitty"
+    ],
+    "passives": [
+      "Floral Sidewinder",
+      "The Languid Wood",
+      "Gliding Champion of Sumeru"
+    ],
+    "constellations": [
+      "Deepwood Patrol",
+      "Through Hill and Copse",
+      "Scent of Summer",
+      "Gift of the Woods",
+      "All Embers",
+      "Forest of Falling Arrows"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/collei/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/collei/gacha-splash.png"
+  },
+  {
+    "id": "cyno",
+    "name": "Cyno",
+    "title": "Judicator of Secrets",
+    "rarity": 5,
+    "element": "Listrik (Electro)",
+    "weapon": "Tombak",
+    "nation": "Sumeru",
+    "birthday": "06-23",
+    "description": "The General Mahamatra of the Akademiya, leader of all the Matras. He has a unique sense of humor that never fails to leave a deep impression.",
+    "skills": [
+      "Invoker's Spear",
+      "Secret Rite: Chasmic Soulfarer",
+      "Sacred Rite: Wolf's Swiftness"
+    ],
+    "passives": [
+      "Featherfall Judgment",
+      "Authority Over the Nine Bows",
+      "The Gift of Silencee"
+    ],
+    "constellations": [
+      "Ordinance: Unceasing Vigil",
+      "Ceremony: Homecoming of Spirits",
+      "Precept: Lawful Enforcer",
+      "Austerity: Forbidding Guard",
+      "Funerary Rite: The Passing of Starlight",
+      "Raiment: Just Scales"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/cyno/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/cyno/gacha-splash.png"
+  },
+  {
+    "id": "diluc",
+    "name": "Diluc",
+    "title": "The Dark Side of Dawn",
+    "rarity": 5,
+    "element": "Api (Pyro)",
+    "weapon": "Pedang Besar",
+    "nation": "Mondstadt",
+    "birthday": "04-30",
+    "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+    "skills": [
+      "Tempered Sword",
+      "Searing Onslaught",
+      "Dawn"
+    ],
+    "passives": [
+      "Relentless",
+      "Blessing of Phoenix",
+      "Tradition of the Dawn Knight"
+    ],
+    "constellations": [
+      "Conviction",
+      "Searing Ember",
+      "Steel and Fire",
+      "Flowing Flame",
+      "Phoenix, Harbinger of Dawn",
+      "Flaming Sword, Nemesis of Dark"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/diluc/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/diluc/gacha-splash.png"
+  },
+  {
+    "id": "diona",
+    "name": "Diona",
+    "title": "Kätzlein Cocktail",
+    "rarity": 4,
+    "element": "Es (Cryo)",
+    "weapon": "Panah",
+    "nation": "Mondstadt",
+    "birthday": "01-18",
+    "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",
+    "skills": [
+      "Katzlein Style",
+      "Icy Paws",
+      "Signature Mix"
+    ],
+    "passives": [
+      "Cat's Tail Secret Menu",
+      "Drunkard's Farce",
+      "Complimentary Bar Food"
+    ],
+    "constellations": [
+      "A Lingering Flavor",
+      "Shaken, Not Purred",
+      "A-Another Round?",
+      "Wine Industry Slayer",
+      "Double Shot, On The Rocks",
+      "Cat's Tail Closing Time"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/diona/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/diona/gacha-splash.png"
+  },
+  {
+    "id": "eula",
+    "name": "Eula",
+    "title": "Dance of the Shimmering Wave",
+    "rarity": 5,
+    "element": "Es (Cryo)",
+    "weapon": "Pedang Besar",
+    "nation": "Mondstadt",
+    "birthday": "10-25",
+    "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+    "skills": [
+      "Favonius Bladework - Edel",
+      "Icetide Vortex",
+      "Glacial Illumination"
+    ],
+    "passives": [
+      "Roiling Rime",
+      "Wellspring of War-Lust",
+      "Aristocratic Introspection"
+    ],
+    "constellations": [
+      "Tidal Illusion",
+      "Lady of Seafoam",
+      "Lawrence Pedigree",
+      "The Obstinacy of One's Inferiors",
+      "Chivalric Quality",
+      "Noble Obligation"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/eula/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/eula/gacha-splash.png"
+  },
+  {
+    "id": "fischl",
+    "name": "Fischl",
+    "title": "Prinzessin der Verurteilung!",
+    "rarity": 4,
+    "element": "Listrik (Electro)",
+    "weapon": "Panah",
+    "nation": "Mondstadt",
+    "birthday": "05-27",
+    "description": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
+    "skills": [
+      "Bolts of Downfall",
+      "Nightrider",
+      "Midnight Phantasmagoria"
+    ],
+    "passives": [
+      "Stellar Predator",
+      "Undone Be Thy Sinful Hex",
+      "Mein Hausgarten"
+    ],
+    "constellations": [
+      "Gaze of the Deep",
+      "Devourer of All-Sins",
+      "Wings of Nightmare",
+      "Her Pilgrimage of Bleak",
+      "Against the Fleeing Light",
+      "Evernight Raven"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/fischl/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/fischl/gacha-splash.png"
+  },
+  {
+    "id": "ganyu",
+    "name": "Ganyu",
+    "title": "Plenilune Gaze",
+    "rarity": 5,
+    "element": "Es (Cryo)",
+    "weapon": "Panah",
+    "nation": "Liyue",
+    "birthday": "12-02",
+    "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+    "skills": [
+      "Liutian Archery",
+      "Trail of the Qilin",
+      "Celestial Shower"
+    ],
+    "passives": [
+      "Undivided Heart",
+      "Harmony between Heaven and Earth",
+      "Preserved for the Hunt"
+    ],
+    "constellations": [
+      "Dew-Drinker",
+      "The Auspicious",
+      "Cloud-Strider",
+      "Westward Sojourn",
+      "The Merciful",
+      "The Clement"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/ganyu/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/ganyu/gacha-splash.png"
+  },
+  {
+    "id": "gorou",
+    "name": "Gorou",
+    "title": "Canine Warrior",
+    "rarity": 4,
+    "element": "Tanah (Geo)",
+    "weapon": "Panah",
+    "nation": "Inazuma",
+    "birthday": "05-18",
+    "description": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
+    "skills": [
+      "Ripping Fang Fletching",
+      "Inuzaka All-Round Defense",
+      "Juuga: Forward Unto Victory"
+    ],
+    "passives": [
+      "Seeker of Shinies",
+      "Heedless of the Wind and Weather",
+      "A Favor Repaid"
+    ],
+    "constellations": [
+      "Rushing Hound: Swift as the Wind",
+      "Sitting Hound: Steady as a Clock",
+      "Mauling Hound: Fierce as Fire",
+      "Lapping Hound: Warm as Water",
+      "Striking Hound: Thunderous Force",
+      "Valiant Hound: Mountainous Fealty"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/gorou/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/gorou/gacha-splash.png"
+  },
+  {
+    "id": "shikanoin-heizou",
+    "name": "Shikanoin Heizou",
+    "title": "Analytical Harmony",
+    "rarity": 4,
+    "element": "Angin (Anemo)",
+    "weapon": "Buku (Catalyst)",
+    "nation": "Inazuma",
+    "birthday": "7-24",
+    "description": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
+    "skills": [
+      "Fudou Style Martial Arts",
+      "Heartstopper Strike",
+      "Windmuster Kick"
+    ],
+    "passives": [
+      "Paradoxical Practice",
+      "Penetrative Reasoning",
+      "Pre-Existing Guilt"
+    ],
+    "constellations": [
+      "Named Juvenile Casebook",
+      "Investigative Collection",
+      "Esoteric Puzzle Book",
+      "Tome of Lies",
+      "Secret Archive",
+      "Curious Casefiles"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/heizou/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/heizou/gacha-splash.png"
+  },
+  {
+    "id": "hu-tao",
+    "name": "Hu Tao",
+    "title": "Fragrance in Thaw",
+    "rarity": 5,
+    "element": "Api (Pyro)",
+    "weapon": "Tombak",
+    "nation": "Liyue",
+    "birthday": "07-15",
+    "description": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
+    "skills": [
+      "Secret Spear of Wangsheng",
+      "Guide to Afterlife",
+      "Spirit Soother"
+    ],
+    "passives": [
+      "Flutter By",
+      "Sanguine Rouge",
+      "The More the Merrier"
+    ],
+    "constellations": [
+      "Crimson Bouquet",
+      "Ominous Rainfall",
+      "Lingering Carmine",
+      "Garden of Eternal Rest",
+      "Floral Incense",
+      "Butterfly's Embrace"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/hu-tao/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/hu-tao/gacha-splash.png"
+  },
+  {
+    "id": "arataki-itto",
+    "name": "Arataki Itto",
+    "title": "Hanamizaka Heroics",
+    "rarity": 5,
+    "element": "Tanah (Geo)",
+    "weapon": "Pedang Besar",
+    "nation": "Inazuma",
+    "birthday": "06-01",
+    "description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?",
+    "skills": [
+      "Fight Club Legend",
+      "Masatsu Zetsugi: Akaushi Burst!",
+      "Royal Descent: Behold, Itto the Evil!"
+    ],
+    "passives": [
+      "Woodchuck Chucked",
+      "Arataki Ichiban",
+      "Bloodline of the Crimson Oni"
+    ],
+    "constellations": [
+      "Stay a While and Listen Up",
+      "Gather 'Round, It's a Brawl!",
+      "Horns Lowered, Coming Through",
+      "Jailhouse Bread and Butter",
+      "10 Years of Hanamizaka Fame",
+      "Arataki Itto, Present!"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/itto/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/itto/gacha-splash.png"
+  },
+  {
+    "id": "jean",
+    "name": "Jean",
+    "title": "Dandelion Knight",
+    "rarity": 5,
+    "element": "Angin (Anemo)",
+    "weapon": "Pedang",
+    "nation": "Mondstadt",
+    "birthday": "03-14",
+    "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius",
+    "skills": [
+      "Favonius Bladework",
+      "Gale Blade",
+      "Dandelion Breeze"
+    ],
+    "passives": [
+      "Wind Companion",
+      "Let the Wind Lead",
+      "Guiding Breeze"
+    ],
+    "constellations": [
+      "Spiraling Tempest",
+      "People's Aegis",
+      "When the West Wind Arises",
+      "Lands of Dandelion",
+      "Outbursting Gust",
+      "Lion's Fang, Fair Protector of Mondstadt"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/jean/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/jean/gacha-splash.png"
+  },
+  {
+    "id": "kaeya",
+    "name": "Kaeya",
+    "title": "Frostwind Swordsman",
+    "rarity": 4,
+    "element": "Es (Cryo)",
+    "weapon": "Pedang",
+    "nation": "Mondstadt",
+    "birthday": "11-30",
+    "description": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+    "skills": [
+      "Ceremonial Bladework",
+      "Frostgnaw",
+      "Glacial Waltz"
+    ],
+    "passives": [
+      "Cold-Blooded Strike",
+      "Glacial Heart",
+      "Hidden Strength"
+    ],
+    "constellations": [
+      "Excellent Blood",
+      "Never-Ending Performance",
+      "Dance of Frost",
+      "Frozen Kiss",
+      "Frostbiting Embrace",
+      "Glacial Whirlwind"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/kaeya/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/kaeya/gacha-splash.png"
+  },
+  {
+    "id": "kaedehara-kazuha",
+    "name": "Kaedehara Kazuha",
+    "title": "Scarlet Leaves Pursue Wild Waves",
+    "rarity": 5,
+    "element": "Angin (Anemo)",
+    "weapon": "Pedang",
+    "nation": "Inazuma",
+    "birthday": "10-29",
+    "description": "If one's heart is empty, all under heaven is empty. But if one's heart is pure, all under heaven is pure.",
+    "skills": [
+      "Garyuu Bladework",
+      "Chihayaburu",
+      "Kazuha Slash"
+    ],
+    "passives": [
+      "Soumon Swordsmanship",
+      "Poetics of Fuubutsu",
+      "Cloud Strider"
+    ],
+    "constellations": [
+      "Scarlet Hills",
+      "Yamaarashi Tailwind",
+      "Maple Monogatari",
+      "Oozora Genpou",
+      "Wisdom of Bansei",
+      "Crimson Momiji"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/kazuha/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/kazuha/gacha-splash.png"
+  },
+  {
+    "id": "keqing",
+    "name": "Keqing",
+    "title": "Driving Thunder",
+    "rarity": 5,
+    "element": "Listrik (Electro)",
+    "weapon": "Pedang",
+    "nation": "Liyue",
+    "birthday": "11-20",
+    "description": "The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis' unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",
+    "skills": [
+      "Yunlai Swordsmanship",
+      "Stellar Restoration",
+      "Starward Sword"
+    ],
+    "passives": [
+      "Thundering Penance",
+      "Aristocratic Dignity",
+      "Land's Overseer"
+    ],
+    "constellations": [
+      "Thundering Might",
+      "Keen Extraction",
+      "Forseen Reformation",
+      "Attunement",
+      "Beckoning Stars",
+      "Tenacious Star"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/keqing/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/keqing/gacha-splash.png"
+  },
+  {
+    "id": "klee",
+    "name": "Klee",
+    "title": "Fleeing Sunlight",
+    "rarity": 5,
+    "element": "Api (Pyro)",
+    "weapon": "Buku (Catalyst)",
+    "nation": "Mondstadt",
+    "birthday": "07-27",
+    "description": "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
+    "skills": [
+      "Kaboom!",
+      "Jumpy Dumpty",
+      "Sparks 'n' Splash"
+    ],
+    "passives": [
+      "Pounding Surprise",
+      "Sparkling Burst",
+      "All Of My Treasures!"
+    ],
+    "constellations": [
+      "Chained Reaction",
+      "Explosive Frags",
+      "Exquisite Compound",
+      "Sparkly Explosion",
+      "Nova Burst",
+      "Blazing Delight"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/klee/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/klee/gacha-splash.png"
+  },
+  {
+    "id": "sangonomiya-kokomi",
+    "name": "Sangonomiya Kokomi",
+    "title": "Pearl of Wisdom",
+    "rarity": 5,
+    "element": "Air (Hydro)",
+    "weapon": "Buku (Catalyst)",
+    "nation": "Inazuma",
+    "birthday": "02-22",
+    "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
+    "skills": [
+      "The Shape of Water",
+      "Kurage's Oath",
+      "Nereid's Ascension"
+    ],
+    "passives": [
+      "Tamanooya's Casket",
+      "Song of Pearls",
+      "Flawless Strategy",
+      "Princess of Watatsumi"
+    ],
+    "constellations": [
+      "At Water's Edge",
+      "The Clouds Like Waves Rippling",
+      "The Moon, A Ship O'er the Seas",
+      "The Moon Overlooks the Waters",
+      "All Streams Flow to the Sea",
+      "Sango Isshin"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/kokomi/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/kokomi/gacha-splash.png"
+  },
+  {
+    "id": "kuki-shinobu",
+    "name": "Kuki Shinobu",
+    "title": "Mender of Tribulations",
+    "rarity": 4,
+    "element": "Listrik (Electro)",
+    "weapon": "Pedang",
+    "nation": "Inazuma",
+    "birthday": "7-27",
+    "description": "The capable and reliable deputy leader of the \"Arataki Gang.\" Please note: capable and reliable are not appellations for the \"Arataki Gang,\" but for their deputy leader in specific.",
+    "skills": [
+      "Shinobu's Shadowsword",
+      "Sanctifying Ring",
+      "Gyoei Narukami Kariyama Rite"
+    ],
+    "passives": [
+      "Breaking Free",
+      "Heart's Repose",
+      "Protracted Prayers"
+    ],
+    "constellations": [
+      "To Cloister Compassion",
+      "To Forsake Fortune",
+      "To Sequester Sorrow",
+      "To Sever Sealing",
+      "To Cease Courtesies",
+      "To Ward Weakness"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/kuki/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/kuki/gacha-splash.png"
+  },
+  {
+    "id": "lisa",
+    "name": "Lisa",
+    "title": "Witch of Purple Rose",
+    "rarity": 4,
+    "element": "Listrik (Electro)",
+    "weapon": "Buku (Catalyst)",
+    "nation": "Mondstadt",
+    "birthday": "06-09",
+    "description": "The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.",
+    "skills": [
+      "Lightning Touch",
+      "Violet Arc",
+      "Lightning Rose"
+    ],
+    "passives": [
+      "Induced Aftershock",
+      "Static Electricity Field",
+      "General Pharmaceutics"
+    ],
+    "constellations": [
+      "Infinite Circuit",
+      "Electromagnetic Field",
+      "Resonant Thunder",
+      "Plasma Eruption",
+      "Electrocute",
+      "Pulsating Witch"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/lisa/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/lisa/gacha-splash.png"
+  },
+  {
+    "id": "mona",
+    "name": "Mona",
+    "title": "Astral Reflection",
+    "rarity": 5,
+    "element": "Air (Hydro)",
+    "weapon": "Buku (Catalyst)",
+    "nation": "Mondstadt",
+    "birthday": "08-31",
+    "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
+    "skills": [
+      "Ripple of Fate",
+      "Reflection of Doom",
+      "Stellaris Phantasm",
+      "Illusory Torrent"
+    ],
+    "passives": [
+      "Come 'n' Get Me, Hag!",
+      "Waterborne Destiny",
+      "Principium of Astrology"
+    ],
+    "constellations": [
+      "Prophecy of Submersion",
+      "Lunar Chain",
+      "Restless Revolution",
+      "Prophecy of Oblivion",
+      "Mockery of Fortuna",
+      "Rhetorics of Calamitas"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/mona/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/mona/gacha-splash.png"
+  },
+  {
+    "id": "ningguang",
+    "name": "Ningguang",
+    "title": "Eclipsing Star",
+    "rarity": 4,
+    "element": "Tanah (Geo)",
+    "weapon": "Buku (Catalyst)",
+    "nation": "Liyue",
+    "birthday": "08-26",
+    "description": "The Tianquan of Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
+    "skills": [
+      "Sparkling Scatter",
+      "Jade Screen",
+      "Starshatter"
+    ],
+    "passives": [
+      "Backup Plan",
+      "Strategic Reserve",
+      "Trove of Marvelous Treasure"
+    ],
+    "constellations": [
+      "Piercing Fragments",
+      "Shock Effect",
+      "Majesty be the Array of Stars",
+      "Exquisite be the Jade, Outshining All the Beneath",
+      "Invincible be the Jade Screen",
+      "Grandeur be the Seven Stars"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/ningguang/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/ningguang/gacha-splash.png"
+  },
+  {
+    "id": "noelle",
+    "name": "Noelle",
+    "title": "Chivalric Blossom",
+    "rarity": 4,
+    "element": "Tanah (Geo)",
+    "weapon": "Pedang Besar",
+    "nation": "Mondstadt",
+    "birthday": "03-21",
+    "description": "A maid who faithfully serves the Knights of Favonius that dreams of joining their ranks someday.",
+    "skills": [
+      "Favonius Bladework - Maid",
+      "Breastplate",
+      "Sweeping Time"
+    ],
+    "passives": [
+      "Devotion",
+      "Nice and Clean",
+      "Maid's Knighthood"
+    ],
+    "constellations": [
+      "I Got Your Back",
+      "Combat Maid",
+      "Invulnerable Maid",
+      "To Be Cleaned",
+      "Favonius Sweeper Master",
+      "Must Be Spotless"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/noelle/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/noelle/gacha-splash.png"
+  },
+  {
+    "id": "qiqi",
+    "name": "Qiqi",
+    "title": "Icy Resurrection",
+    "rarity": 5,
+    "element": "Es (Cryo)",
+    "weapon": "Pedang",
+    "nation": "Liyue",
+    "birthday": "03-03",
+    "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+    "skills": [
+      "Ancient Sword Art",
+      "Adeptus Art: Herald of Frost",
+      "Adeptus Art: Preserver of Fortune"
+    ],
+    "passives": [
+      "Life-Prolonging Methods",
+      "A Glimpse into Arcanum",
+      "Former Life Memories"
+    ],
+    "constellations": [
+      "Ascetics of Frost",
+      "Frozen to the Bone",
+      "Ascendant Praise",
+      "Divine Suppression",
+      "Crimson Lotus Bloom",
+      "Rite of Resurrection"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/qiqi/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/qiqi/gacha-splash.png"
+  },
+  {
+    "id": "raiden-shogun",
+    "name": "Raiden Shogun",
+    "title": "Plane of Euthymia",
+    "rarity": 5,
+    "element": "Listrik (Electro)",
+    "weapon": "Tombak",
+    "nation": "Inazuma",
+    "birthday": "06-26",
+    "description": "Her Excellency, the Almighty, Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
+    "skills": [
+      "Origin",
+      "Transcendence: Baleful Omen",
+      "Secret Art: Musou Shinsetsu"
+    ],
+    "passives": [
+      "Wishes Unnumbered",
+      "Enlightened One",
+      "All-Preserver"
+    ],
+    "constellations": [
+      "Ominous Inscription",
+      "Steelbreaker",
+      "Shinkage Bygones",
+      "Pledge of Propriety",
+      "Shogun's Descent",
+      "Wishbearer"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/raiden/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/raiden/gacha-splash.png"
+  },
+  {
+    "id": "razor",
+    "name": "Razor",
+    "title": "Wolf Boy",
+    "rarity": 4,
+    "element": "Listrik (Electro)",
+    "weapon": "Pedang Besar",
+    "nation": "Mondstadt",
+    "birthday": "09-09",
+    "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+    "skills": [
+      "Steel Fang",
+      "Claw and Thunder",
+      "Lightning Fang"
+    ],
+    "passives": [
+      "Awakening",
+      "Hunger",
+      "Wolvensprint"
+    ],
+    "constellations": [
+      "Wolf's Instinct",
+      "Suppression",
+      "Soul Companion",
+      "Bite",
+      "Sharpened Claws",
+      "Lupus Fulguris"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/razor/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/razor/gacha-splash.png"
+  },
+  {
+    "id": "rosaria",
+    "name": "Rosaria",
+    "title": "Thorny Benevolence",
+    "rarity": 4,
+    "element": "Es (Cryo)",
+    "weapon": "Tombak",
+    "nation": "Mondstadt",
+    "birthday": "01-24",
+    "description": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
+    "skills": [
+      "Spear of the Church",
+      "Ravaging Confession",
+      "Rites of Termination"
+    ],
+    "passives": [
+      "Regina Probationum",
+      "Shadow Samaritan",
+      "Night Walk"
+    ],
+    "constellations": [
+      "Unholy Revelation",
+      "Land Without Promise",
+      "The Wages of Sin",
+      "Painful Grace",
+      "Last Rites",
+      "Divine Retribution"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/rosaria/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/rosaria/gacha-splash.png"
+  },
+  {
+    "id": "kujou-sara",
+    "name": "Kujou Sara",
+    "title": "Crowfeather Kaburaya",
+    "rarity": 4,
+    "element": "Listrik (Electro)",
+    "weapon": "Panah",
+    "nation": "Inazuma",
+    "birthday": "07-14",
+    "description": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
+    "skills": [
+      "Tengu Bowmanship",
+      "Tengu Stormcall",
+      "Subjugation: Koukou Sendou"
+    ],
+    "passives": [
+      "Immovable Will",
+      "Decorum",
+      "Land Survey"
+    ],
+    "constellations": [
+      "Crow's Eye",
+      "Dark Wings",
+      "The War Within",
+      "Conclusive Proof",
+      "Spellsinger",
+      "Sin of Pride"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/sara/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/sara/gacha-splash.png"
+  },
+  {
+    "id": "sayu",
+    "name": "Sayu",
+    "title": "Mujina Ninja",
+    "rarity": 4,
+    "element": "Angin (Anemo)",
+    "weapon": "Pedang Besar",
+    "nation": "Inazuma",
+    "birthday": "10-19",
+    "description": "A pint-sized ninja attached to the Shuumatsuban, who always seems to be lacking sleep.",
+    "skills": [
+      "Shuumatsuban Ninja Blade",
+      "Yoohoo Art: Fuuin Dash",
+      "Yoohoo Art: Mujina Flurry"
+    ],
+    "passives": [
+      "Someone More Capable",
+      "No Work Today!",
+      "Yoohoo Art: Silencer's Secret"
+    ],
+    "constellations": [
+      "Multi-Task no Jutsu",
+      "Egress Prep",
+      "Eh, the Bunshin Can Handle It",
+      "Skiving: New and Improved",
+      "Speed Comes First",
+      "Sleep O'Clock"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/sayu/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/sayu/gacha-splash.png"
+  },
+  {
+    "id": "shenhe",
+    "name": "Shenhe",
+    "title": "Lonesome Transcendence",
+    "rarity": 5,
+    "element": "Es (Cryo)",
+    "weapon": "Tombak",
+    "nation": "Liyue",
+    "birthday": "03-10",
+    "description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
+    "skills": [
+      "Dawnstar Piercer",
+      "Spring Spirit Summoning",
+      "Divine Maiden's Deliverance"
+    ],
+    "passives": [
+      "Precise Comings and Goings",
+      "Deific Embrace",
+      "Spirit Communion Seal"
+    ],
+    "constellations": [
+      "Clarity of Heart",
+      "Centered Spirit",
+      "Seclusion",
+      "Insight",
+      "Divine Attainment",
+      "Mystical Abandon"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/shenhe/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/shenhe/gacha-splash.png"
+  },
+  {
+    "id": "sucrose",
+    "name": "Sucrose",
+    "title": "Harmless Sweetie",
+    "rarity": 4,
+    "element": "Angin (Anemo)",
+    "weapon": "Buku (Catalyst)",
+    "nation": "Mondstadt",
+    "birthday": "11-26",
+    "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
+    "skills": [
+      "Wind Spirit Creation",
+      "Astable Anemohypostasis Creation - 6308",
+      "Forbidden Creation - Isomer 75 / Type II"
+    ],
+    "passives": [
+      "Catalyst Conversion",
+      "Mollis Favonius",
+      "Astable Invention"
+    ],
+    "constellations": [
+      "Clustered Vacuum Field",
+      "Beth - Unbound Form",
+      "Flawless Alchemistress",
+      "Alchemania",
+      "Caution: Standard Flask",
+      "Chaotic Entropy"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/sucrose/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/sucrose/gacha-splash.png"
+  },
+  {
+    "id": "tartaglia",
+    "name": "Tartaglia",
+    "title": "Childe",
+    "rarity": 5,
+    "element": "Air (Hydro)",
+    "weapon": "Panah",
+    "nation": "Snezhnaya",
+    "birthday": "07-20",
+    "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
+    "skills": [
+      "Cutting Torrent",
+      "Foul Legacy: Raging Tide",
+      "Havor: Obliteration"
+    ],
+    "passives": [
+      "Never Ending",
+      "Sword of Torrents",
+      "Master of Weaponry"
+    ],
+    "constellations": [
+      "Foul Legacy: Tide Withholder",
+      "Foul Legacy: Understream",
+      "Abyssal Mayhem: Vortex of Turmoil",
+      "Abyssal Mayhem: Hydrospout",
+      "Havoc: Formless Blade",
+      "Havoc: Annihilation"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/tartaglia/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/tartaglia/gacha-splash.png"
+  },
+  {
+    "id": "thoma",
+    "name": "Thoma",
+    "title": "Protector From Afar",
+    "rarity": 4,
+    "element": "Api (Pyro)",
+    "weapon": "Tombak",
+    "nation": "Mondstadt",
+    "birthday": "01-09",
+    "description": "The housekeeper of the Yashiro Commission's Kamisato Clan, and a well-known \"fixer\" in Inazuma.\nFriendly and approachable, Thoma fits in with the crowd easily wherever he is.\nAt first glance, he seems to be a very easygoing person, but he is in fact very responsible. He has an extraordinarily serious side, be it in his work or his interpersonal communications.",
+    "skills": [
+      "Swiftshatter Spear",
+      "Blazing Blessing",
+      "Crimson Ooyoroi"
+    ],
+    "passives": [
+      "Imbricated Armor",
+      "Flaming Assault",
+      "Snap and Swing"
+    ],
+    "constellations": [
+      "A Comrade's Duty",
+      "A Subordinate's Skills",
+      "Fortified Resolve",
+      "Long-Term Planning",
+      "Raging Wildfire",
+      "Burning Heart"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/thoma/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/thoma/portrait.png"
+  },
+  {
+    "id": "tighnari",
+    "name": "Tighnari",
+    "title": "Verdant Strider",
+    "rarity": 5,
+    "element": "Tumbuhan (Dendro)",
+    "weapon": "Panah",
+    "nation": "Sumeru",
+    "birthday": "12-29",
+    "description": "\"A message for you. I brought back a specialty from the desert, two packs of honeyed dates, which helps to replenish your energy, whether in the morning or at night. Thank you for your patience in teaching and taking care of Collei. Good luck with your work and best wishes for Collei's studies.\"\n—An anonymously written message left inside a candy box, placed on the watcher's table.",
+    "skills": [
+      "Khanda Barrier-Buster",
+      "Vijnana-Phala Mine",
+      "Fashioner's Tanglevine Shaft"
+    ],
+    "passives": [
+      "Keen Sight",
+      "Scholarly Blade",
+      "Encyclopedic Knowledge"
+    ],
+    "constellations": [
+      "Beginnings Determined at the Roots",
+      "Origins Known From the Stem",
+      "Fortunes Read Amongst the Branches",
+      "Withering Glimpsed in the Leaves",
+      "Comprehension Amidst the Flowers",
+      "Karma Adjudged From the Leaden Fruit"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/tighnari/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/tighnari/gacha-splash.png"
+  },
+  {
+    "id": "traveler",
+    "name": "Traveler",
+    "title": "",
+    "rarity": 5,
+    "element": "Angin (Anemo)",
+    "weapon": "Pedang",
+    "nation": "Outlander",
+    "birthday": "Unknown",
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "skills": [
+      "Foreign Ironwind",
+      "Palm Vortex",
+      "Gust Surge"
+    ],
+    "passives": [
+      "Slitting Wind",
+      "Second Wind"
+    ],
+    "constellations": [
+      "Raging Vortex",
+      "Uprising Whirlwind",
+      "Sweeping Gust",
+      "Cherishing Breezes",
+      "Vortex Stellaris",
+      "Intertwined Winds"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/traveler-anemo/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/traveler-anemo/portrait.png"
+  },
+  {
+    "id": "traveler",
+    "name": "Traveler",
+    "title": "",
+    "rarity": 4,
+    "element": "Tumbuhan (Dendro)",
+    "weapon": "Pedang",
+    "nation": "Outlander",
+    "birthday": "Unknown",
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "skills": [
+      "Foreign Fieldcleaver",
+      "Razorgrass Blade",
+      "Surgent Manifestation"
+    ],
+    "passives": [
+      "Verdant Luxury",
+      "Verdant Overgrowth"
+    ],
+    "constellations": [
+      "Parasitic Creeper",
+      "Green Resilience",
+      "Whirling Weeds",
+      "Treacle Grass",
+      "Viridian Transience",
+      "Withering Aggregation"
+    ],
+    "image": "",
+    "banner": ""
+  },
+  {
+    "id": "traveler",
+    "name": "Traveler",
+    "title": "",
+    "rarity": 5,
+    "element": "Listrik (Electro)",
+    "weapon": "Pedang",
+    "nation": "Outlander",
+    "birthday": "Unknown",
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "skills": [
+      "Foreign Thundershock",
+      "Lightning Blade",
+      "Bellowing Thunder"
+    ],
+    "passives": [
+      "Thunderflash",
+      "Resounding Roar"
+    ],
+    "constellations": [
+      "Spring Thunder of Fertility",
+      "Violet Vehemence",
+      "Distant Crackling",
+      "Fickle Cloudstrike",
+      "Clamor in the Wilds",
+      "World-Shaker"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/traveler-electro/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/traveler-electro/portrait.png"
+  },
+  {
+    "id": "traveler",
+    "name": "Traveler",
+    "title": "",
+    "rarity": 5,
+    "element": "Tanah (Geo)",
+    "weapon": "Pedang",
+    "nation": "Outlander",
+    "birthday": "Unknown",
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "skills": [
+      "Foreign Rockblade",
+      "Starfell Sword",
+      "Wake of Earth"
+    ],
+    "passives": [
+      "Shattered Darkrock",
+      "Frenzied Rockslide"
+    ],
+    "constellations": [
+      "Invincible Stonewall",
+      "Rockcore Meltdown",
+      "Will of the Rock",
+      "Reaction Force",
+      "Meteorite Impact",
+      "Everlasting Boulder"
+    ],
+    "image": "",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/traveller-geo/portrait.png"
+  },
+  {
+    "id": "venti",
+    "name": "Venti",
+    "title": "Windborne Bard",
+    "rarity": 5,
+    "element": "Angin (Anemo)",
+    "weapon": "Panah",
+    "nation": "Mondstadt",
+    "birthday": "06-16",
+    "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+    "skills": [
+      "Divine Marksmanship",
+      "Skyward Sonnet",
+      "Wind's Grand Ode"
+    ],
+    "passives": [
+      "Embrace of Winds",
+      "Stormeye",
+      "Windrider"
+    ],
+    "constellations": [
+      "Splitting Gale",
+      "Breeze of Reminiscence",
+      "Ode to Thousand Winds",
+      "Hurricane of Freedom",
+      "Concierto dal Cielo",
+      "Storm of Defiance"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/venti/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/venti/gacha-splash.png"
+  },
+  {
+    "id": "xiangling",
+    "name": "Xiangling",
+    "title": "Exquisite Delicacy",
+    "rarity": 4,
+    "element": "Api (Pyro)",
+    "weapon": "Tombak",
+    "nation": "Liyue",
+    "birthday": "11-02",
+    "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+    "skills": [
+      "Dough-Fu",
+      "Guoba Attack",
+      "Pyronado"
+    ],
+    "passives": [
+      "Crossfire",
+      "Beware, It's Super Hot!",
+      "Chef de Cuisine"
+    ],
+    "constellations": [
+      "Crispy Outside, Tender Inside",
+      "Oil Meets Fire",
+      "Deepfry",
+      "Slowbake",
+      "Guoba Mad",
+      "Condensed Pyronado"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/xiangling/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/xiangling/gacha-card.png"
+  },
+  {
+    "id": "xiao",
+    "name": "Xiao",
+    "title": "Vigilant Yaksha",
+    "rarity": 5,
+    "element": "Angin (Anemo)",
+    "weapon": "Tombak",
+    "nation": "Liyue",
+    "birthday": "04-17",
+    "description": "A yaksha adeptus that defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
+    "skills": [
+      "Whirlwind Thrust",
+      "Lemniscatic Wind Cycling",
+      "Bane of All Evil"
+    ],
+    "passives": [
+      "Evil Conqueror - Tamer of Demons",
+      "Dissolution Eon - Heaven Fall",
+      "Transcension - Gravity Defier"
+    ],
+    "constellations": [
+      "Dissolution Eon - Destroyer of Worlds",
+      "Annihilation Eon - Blossom of Kaleidos",
+      "Evil Conqueror - Wrath Deity",
+      "Transcension - Extinction of Suffering",
+      "Evolution Eon - Origin of Ignorance",
+      "Evil Conqueror - Vigilant Yaksha"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/xiao/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/xiao/gacha-splash.png"
+  },
+  {
+    "id": "xingqiu",
+    "name": "Xingqiu",
+    "title": "Juvenile Galant",
+    "rarity": 4,
+    "element": "Air (Hydro)",
+    "weapon": "Pedang",
+    "nation": "Liyue",
+    "birthday": "10-09",
+    "description": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
+    "skills": [
+      "Guhua Style",
+      "Guhua Sword - Fatal Rainscreen",
+      "Guhua Sword - Raincutter"
+    ],
+    "passives": [
+      "Hydropathic",
+      "Blades Amidst Raindrops",
+      "Flash of Genius"
+    ],
+    "constellations": [
+      "The Scent Remained",
+      "Rainbow Upon the Azure Sky",
+      "Weaver of Verses",
+      "Evilsoother",
+      "Embrace of Rain",
+      "Hence, Call Them My Own Verses"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/xingqiu/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/xingqiu/gacha-splash.png"
+  },
+  {
+    "id": "xinyan",
+    "name": "Xinyan",
+    "title": "Blazing Riff",
+    "rarity": 4,
+    "element": "Api (Pyro)",
+    "weapon": "Pedang Besar",
+    "nation": "Liyue",
+    "birthday": "10-16",
+    "description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+    "skills": [
+      "Dance on Fire",
+      "Sweeping Fervor",
+      "Riff Revolution"
+    ],
+    "passives": [
+      "\"The Show Goes On, Even Without an Audience...\"",
+      "\"...Now That's Rock 'N' Roll!\"",
+      "A Rad Recipe"
+    ],
+    "constellations": [
+      "Fatal Acceleration",
+      "Impromptu Opening",
+      "Double Stop",
+      "Wildfire Rhythm",
+      "Screaming for Encore",
+      "Rocking in Flaming"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/xinyan/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/xinyan/gacha-splash.png"
+  },
+  {
+    "id": "yae-miko",
+    "name": "Yae Miko",
+    "title": "Astute Amusement",
+    "rarity": 5,
+    "element": "Listrik (Electro)",
+    "weapon": "Buku (Catalyst)",
+    "nation": "Inazuma",
+    "birthday": "06-27",
+    "description": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
+    "skills": [
+      "Spiritfox Sin-Eater",
+      "Yakan Evocation: Sesshou Sakura",
+      "Great Secret Art: Tenko Kenshin"
+    ],
+    "passives": [
+      "The Shrine's Sacred Shade",
+      "Enlightened Blessing",
+      "Meditations of a Yako"
+    ],
+    "constellations": [
+      "Yakan Offering",
+      "Fox's Mooncall",
+      "The Seven Glamours",
+      "Sakura Channeling",
+      "Mischevious Teasing",
+      "Forbidden Art: Daisesshou"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/yae/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/yae/gacha-splash.png"
+  },
+  {
+    "id": "yanfei",
+    "name": "Yanfei",
+    "title": "Wise Innocence",
+    "rarity": 4,
+    "element": "Api (Pyro)",
+    "weapon": "Buku (Catalyst)",
+    "nation": "Liyue",
+    "birthday": "07-28",
+    "description": "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.",
+    "skills": [
+      "Seal of Approval",
+      "Signed Edict",
+      "Done Deal"
+    ],
+    "passives": [
+      "Proviso",
+      "Blazing Eye",
+      "Encyclopedic Expertise"
+    ],
+    "constellations": [
+      "The Law Knows No Kindness",
+      "Right of Final Interpretation",
+      "Samadhi Fire-Forged",
+      "Supreme Amnesty",
+      "Abiding Affidavit",
+      "Extra Clause"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/yanfei/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/yanfei/gacha-card.png"
+  },
+  {
+    "id": "yelan",
+    "name": "Yelan",
+    "title": "Valley Orchid",
+    "rarity": 5,
+    "element": "Air (Hydro)",
+    "weapon": "Panah",
+    "nation": "Liyue",
+    "birthday": "04-20",
+    "description": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.",
+    "skills": [
+      "Stealthy Bowshot",
+      "Lingering Lifeline",
+      "Depth-Clarion Dice"
+    ],
+    "passives": [
+      "Turn Control",
+      "Adapt With Ease",
+      "Necessary Calculation"
+    ],
+    "constellations": [
+      "Enter the Plotters",
+      "Taking All Comers",
+      "Beware of Trickster's Dice",
+      "Bait-and-Switch",
+      "Dealer's Sleight",
+      "Winner Takes All"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/yelan/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/yelan/gacha-splash.png"
+  },
+  {
+    "id": "yoimiya",
+    "name": "Yoimiya",
+    "title": "Frolicking Flames",
+    "rarity": 5,
+    "element": "Api (Pyro)",
+    "weapon": "Panah",
+    "nation": "Inazuma",
+    "birthday": "06-21",
+    "description": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
+    "skills": [
+      "Firework Flare-Up",
+      "Niwabi Fire-Dance",
+      "Ryuukin Saxifrage"
+    ],
+    "passives": [
+      "Tricks of the Trouble-Maker",
+      "Summer Night's Dawn",
+      "Blazing Match"
+    ],
+    "constellations": [
+      "Agate Ryuukin",
+      "A Procession of Bonfires",
+      "Trickster's Flare",
+      "Pyrotechnic Professional",
+      "A Summer Festival's Eve",
+      "Naganohara Meteor Swarm"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/yoimiya/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/yoimiya/gacha-splash.png"
+  },
+  {
+    "id": "yun-jin",
+    "name": "Yun Jin",
+    "title": "Stage Lucida",
+    "rarity": 4,
+    "element": "Tanah (Geo)",
+    "weapon": "Tombak",
+    "nation": "Liyue",
+    "birthday": "05-21",
+    "description": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
+    "skills": [
+      "Cloud-Grazing Strike",
+      "Opening Flourish",
+      "Cliffbreaker's Banner'"
+    ],
+    "passives": [
+      "Light Nourishment",
+      "True to Oneself",
+      "Breaking Conventions"
+    ],
+    "constellations": [
+      "Thespian Gallop",
+      "Myriad Mise-En-Scène",
+      "Seafaring General",
+      "Flower and a Fighter",
+      "Famed Throughout the Land",
+      "Decorous Harmony"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/yun/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/yun/gacha-splash.png"
+  },
+  {
+    "id": "zhongli",
+    "name": "Zhongli",
+    "title": "Vago Mundo",
+    "rarity": 5,
+    "element": "Tanah (Geo)",
+    "weapon": "Tombak",
+    "nation": "Liyue",
+    "birthday": "12-31",
+    "description": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+    "skills": [
+      "Rain of Stone",
+      "Dominus Lapidis",
+      "Planet Befall"
+    ],
+    "passives": [
+      "Resonant Waves",
+      "Dominance of Earth",
+      "Arcanum of Crystal"
+    ],
+    "constellations": [
+      "Rock, the Backbone of Earth",
+      "Stone, the Cradle of Jade",
+      "Jade, Shimmering through Darkness",
+      "Topaz, Unbreakable and Fearless",
+      "Lazuli, Herald of the Order",
+      "Chrysos, Bounty of Dominator"
+    ],
+    "image": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/zhongli/card.png",
+    "banner": "https://pub-1ad979b6618d4a07ab871591a84b954c.r2.dev/zhongli/gacha-splash.png"
+  }
+]

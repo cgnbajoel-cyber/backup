@@ -1,64 +1,58 @@
 const fs = require('fs');
 const path = require('path');
 
-// Alamat folder data karakter kamu
-const baseDir = './wuwa/data/characters'; 
-const outputFile = 'database_gacha.json';
+// 1. Konfigurasi
+const baseDir = './data/characters'; 
+const outputFile = 'database_gacha_genshin.json';
 
-// Kamus terjemahan otomatis
+// 2. Kamus Terjemahan
 const translate = {
-    "Aero": "Angin",
-    "Glacio": "Es",
-    "Electro": "Listrik",
-    "Fusion": "Api",
-    "Spectro": "Cahaya",
-    "Havoc": "Havoc",
-    "Pistols": "Pistol",
-    "Sword": "Pedang",
-    "Broadblade": "Pedang Besar",
-    "Rectifier": "Rectifier",
-    "Gauntlets": "Sarung Tinju"
+    "GEO": "Tanah (Geo)", "HYDRO": "Air (Hydro)", "PYRO": "Api (Pyro)",
+    "CRYO": "Es (Cryo)", "ANEMO": "Angin (Anemo)", "ELECTRO": "Listrik (Electro)",
+    "DENDRO": "Tumbuhan (Dendro)", "SWORD": "Pedang", "CLAYMORE": "Pedang Besar",
+    "POLEARM": "Tombak", "BOW": "Panah", "CATALYST": "Buku (Catalyst)"
 };
 
 const finalData = [];
+const files = fs.readdirSync(baseDir);
 
-// Baca semua folder di dalam data/characters
-const folders = fs.readdirSync(baseDir);
+files.forEach(fileName => {
+    if (path.extname(fileName) === '.json') {
+        try {
+            const jsonPath = path.join(baseDir, fileName);
+            const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
 
-folders.forEach(folderName => {
-    const jsonPath = path.join(baseDir, folderName, 'en.json');
+            const character = {
+                id: data.name.toLowerCase().replace(/\s+/g, '-'),
+                name: data.name,
+                title: data.title || "",
+                rarity: data.rarity || 5,
+                element: translate[data.vision_key] || data.vision,
+                weapon: translate[data.weapon_type] || data.weapon,
+                nation: data.nation || "Teyvat",
+                birthday: data.birthday ? data.birthday.replace('0000-', '') : "Unknown",
+                description: data.description || "",
+                
+                // Ambil Nama-namanya saja agar JSON ringan
+                skills: data.skillTalents ? data.skillTalents.map(s => s.name) : [],
+                passives: data.passiveTalents ? data.passiveTalents.map(p => p.name) : [],
+                constellations: data.constellations ? data.constellations.map(c => c.name) : [],
+                
+                // 3. AMBIL LINK ASLI DARI JSON ASALNYA
+                // Menggunakan property img.card dan img.banner sesuai struktur yang kamu kasih
+                image: data.img && data.img.card ? data.img.card : "",
+                banner: data.img && data.img.banner ? data.img.banner : ""
+            };
 
-    if (fs.existsSync(jsonPath)) {
-        const fileContent = fs.readFileSync(jsonPath, 'utf8');
-        const data = JSON.parse(fileContent);
-
-        // AMBIL DESKRIPSI PANJANG DARI BASIC ATTACK
-        let fullDesc = "Karakter Wuthering Waves.";
-        if (data.skills && data.skills.length > 0) {
-            const basicSkill = data.skills.find(s => s.type === "Basic Attack");
-            if (basicSkill && basicSkill.descriptionMd) {
-                // Bersihkan tanda bintang (**)
-                fullDesc = basicSkill.descriptionMd.replace(/\*\*/g, '');
-            }
+            finalData.push(character);
+            console.log(`✅ Berhasil Meringkas: ${character.name}`);
+        } catch (err) {
+            console.log(`⚠️ Gagal di file ${fileName}: ${err.message}`);
         }
-
-        const character = {
-            id: data.id || folderName,
-            name: data.name,
-            rarity: data.rarity || 5,
-            element: translate[data.element] || data.element,
-            weapon: translate[data.weaponType] || data.weaponType,
-            description: fullDesc,
-            skills: data.skills ? data.skills.filter(s => s.category === "Active").map(s => s.name) : [],
-            // Path gambar relatif untuk repo
-            image: `wuwa/images/characters/${folderName}/card.webp`
-        };
-
-        finalData.push(character);
-        console.log(`✅ Berhasil memproses: ${data.name}`);
     }
 });
 
-// Simpan hasil ke file JSON
 fs.writeFileSync(outputFile, JSON.stringify(finalData, null, 2));
-console.log(`\n🎉 SELESAI! Total ${finalData.length} karakter. Jangan lupa COMMIT & PUSH ke GitHub!`);
+
+console.log(`\n🎉 SELESAI!`);
+console.log(`📂 Database baru pakai link R2: ${outputFile}`);
